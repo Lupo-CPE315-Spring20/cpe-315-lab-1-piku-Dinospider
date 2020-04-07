@@ -1,19 +1,16 @@
 # CPE 315 Lab 1 -- Piku
 
-## Things to include in your README
+## Introduction
 
-* Your name. Indicate if you go by a nickname.
-* Status of your lab
-  * Complete, partially complete, incomplete
-  * If not complete, what does work? What doesn't?
-* Compilation and execution instructions
-  * `gcc -o piku piku.s` or `make`
-  * `./piku`
-* Issues that you encountered along the way, and anything you have questions about.
+Hey! I'm **Venkat Kondamuri**, a second year CS major.
+I often go by **Venk**, especially when I see another person
+struggling to say my name; I don't mind being called by either! 
 
-These README files have a fairly rich _Markdown_ environment. You should use
-markdown syntax to format your README files in such a way that they look
-professional, and are easy to read. Use the 
-[Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
-have fun! :octocat:
+## Lab Information
 
+* Status
+   * Completed 
+* Issues that I encountered along the way:
+   * None
+* Anything you have questions about:
+   * Is there any possibility for CSC 300 to be double counted as a GE C4? It mostly fits the requirements of a general C4 class but it costs a lot of money to pay for another C4 as an out of state student.
